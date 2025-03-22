@@ -1,2 +1,3 @@
-#Leave my study files alone. 
+#Leave my study files alone.
 *.md
+*node_modules*
